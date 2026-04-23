@@ -81,10 +81,10 @@ Below is a sample transformation using glitchwitch.
 
 | Before | After |
 |-------|------|
-| ![Original](labelle-orig.png) | ![Glitched](labelle-glitch.png) |
+| ![Original](labelle-orig.gif) | ![Glitched](labelle-glitch.gif) |
 
-- **Left:** Original frame (`labelle-orig.png`)
-- **Right:** Glitch processed output (`labelle-glitch.png`)
+- **Left:** Original frame (`labelle-orig.gif`)
+- **Right:** Glitch processed output (`labelle-glitch.gif`)
 
 This demonstrates combined effects including:
 - smooth warp distortion
