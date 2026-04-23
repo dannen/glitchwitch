@@ -166,4 +166,6 @@ Load:
 
 ## License
 
-Use freely. Break video aggressively.
+Break video aggressively.
+
+GPL-3.0 licensed
